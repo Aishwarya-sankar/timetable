@@ -131,10 +131,15 @@ Execute the program
 # OUTPUT:
 
 ### serveroutput
-![](./serveroutput)
+![serveroutput](https://user-images.githubusercontent.com/121418444/232693793-f17d6baf-ea08-41f7-8d43-3efdd95393ac.png)
+
 
 ### clientoutput
-![](./clientoutput)
+![clientoutput](https://user-images.githubusercontent.com/121418444/232693776-c79b9466-67f8-4772-ae0f-f2bee7148cb6.png)
+
+
+### htmlvalidator
+
 
 # RESULT:
 Thus the program executed successfully.
